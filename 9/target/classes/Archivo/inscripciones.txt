@@ -1,0 +1,3 @@
+1615;Celeste, Severich;1;Programación I;
+2165;Yesica, Sulca;2;Programación II;
+1000;Karn, Dominguez;3;Programación III;

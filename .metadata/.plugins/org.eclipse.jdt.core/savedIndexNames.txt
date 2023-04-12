@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Cursos\En curso\Argentina Programa\10. Clase 10\Ejemplo\.metadata\.plugins\org.eclipse.jdt.core
+148015279.index
+3959137331.index
+1244027584.index
